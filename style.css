@@ -45,7 +45,7 @@ nav ul {
   position: absolute;
   font-size: 2rem;
   left:50%;
-  top: 75%;
-  transform: translate(-50%, -75%);
+  top: 80%;
+  transform: translate(-50%, -80%);
 
 }
